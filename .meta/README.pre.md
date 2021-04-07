@@ -6,3 +6,5 @@
 
 渲染使用 pre-commit hook
 
+网页为 <https://digest.icu>：我看见你了，所以我收录你
+
