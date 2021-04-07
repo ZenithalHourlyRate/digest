@@ -5,4 +5,4 @@ mv README.md README.md.tmp
 cat .meta/README.pre.md > README.md
 cat README.md.tmp >> README.md
 rm README.md.tmp
-git add README.md
+find ./ -name README.md -exec git add {} \;
