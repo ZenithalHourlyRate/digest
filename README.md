@@ -14,6 +14,7 @@
 
 ### ./2021/04
 
+* 30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git
 * 为什么英文互联网世界里实名比例如此之高？
 * 在北大数院，成为一个普通人
 * 坐我身旁的同学手指卡在了桌子洞里——那个被频繁打卡的景点
