@@ -1,5 +1,6 @@
 # [./2021/05](./2021/05)
 
+* [30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-2](./30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-2.md)
 * [一根跳绳上的鸡娃产业链](./一根跳绳上的鸡娃产业链.md)
 * [丁真老板杜冬-天真的顶流开拓者](./丁真老板杜冬-天真的顶流开拓者.md)
 * [从北大退学重考上清华-一个985废物的自我重构](./从北大退学重考上清华-一个985废物的自我重构.md)

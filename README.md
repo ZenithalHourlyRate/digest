@@ -14,7 +14,7 @@
 
 ### [./2021/04](./2021/04)
 
-* [30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git](./2021/04/30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git.md)
+* [30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-1](./2021/04/30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-1.md)
 * [为什么英文互联网世界里实名比例如此之高](./2021/04/为什么英文互联网世界里实名比例如此之高.md)
 * [在北大数院-成为一个普通人](./2021/04/在北大数院-成为一个普通人.md)
 * [坐我身旁的同学手指卡在了桌子洞里-那个被频繁打卡的景点](./2021/04/坐我身旁的同学手指卡在了桌子洞里-那个被频繁打卡的景点.md)
@@ -23,6 +23,7 @@
 
 ### [./2021/05](./2021/05)
 
+* [30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-2](./2021/05/30-Years-Of-Linux-An-Interview-With-Linus-Torvalds-Linux-and-Git-Part-2.md)
 * [一根跳绳上的鸡娃产业链](./2021/05/一根跳绳上的鸡娃产业链.md)
 * [丁真老板杜冬-天真的顶流开拓者](./2021/05/丁真老板杜冬-天真的顶流开拓者.md)
 * [从北大退学重考上清华-一个985废物的自我重构](./2021/05/从北大退学重考上清华-一个985废物的自我重构.md)
