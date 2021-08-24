@@ -27,7 +27,7 @@ def inc(c, d):
     return r
 
 def dirs(d):
-    return sorted([f for f in os.listdir(d) if os.path.isdir(os.path.join(d, f)) and not '.' in f[0]])
+    return sorted([f for f in os.listdir(d) if os.path.isdir(os.path.join(d, f)) and not '.' in f[0]], reverse=True)
 
 def render(d):
     c = ""
