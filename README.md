@@ -12,6 +12,10 @@
 
 ## [./2021](./2021)
 
+### [./2021/10](./2021/10)
+
+* [教授预聘制的缺点](./2021/10/教授预聘制的缺点.md)
+
 ### [./2021/09](./2021/09)
 
 * [Adding-a-duress-password-with-PAM-Duress](./2021/09/Adding-a-duress-password-with-PAM-Duress.md)
